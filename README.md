@@ -1,1 +1,1 @@
-# inteq-joss
+# Inteq Submission for The Journal of Open Source Software
